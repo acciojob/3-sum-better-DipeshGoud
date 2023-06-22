@@ -10,10 +10,7 @@ function threeSum(arr, target) {
 			}
 		}		
 	}
-
-	return near
-	}
-  
+return near
 }
 
 module.exports = threeSum;
